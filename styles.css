@@ -1,0 +1,86 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FAF3E0; /* Light Sandal White Background */
+    color: #333;
+}
+
+/* Header Styling */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
+
+/* Profile Photo Styling */
+.profile-box {
+    width: 115px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px; /* Slight rounded edges */
+    border: 3px solid white;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+}
+
+/* Navbar Styling */
+nav a {
+    cursor: pointer;
+    font-weight: bold;
+    margin: 0 10px;
+    transition: color 0.3s ease-in-out;
+}
+
+nav a:hover {
+    color: #ffcc00; /* Highlight on hover */
+}
+
+/* Section Containers */
+.section-container {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    border: 2px solid #444;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+/* Hover Effect for Section Boxes */
+.section-hover:hover {
+    transform: scale(1.02);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
+}
+
+/* Common Heading Style */
+.common-heading {
+    font-size: 32px;
+    font-weight: bold;
+    text-decoration: none;
+    border-bottom: 3px solid #444;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+/* Skills Section */
+#skills-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#skills-list li strong {
+    display: block;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+#skills-list ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+/* Contact and Languages */
+#languages-content, #contact-info {
+    font-size: 18px;
+}
