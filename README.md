@@ -12,6 +12,4 @@ This is my personal Web Portfolio, showcasing my skills, projects, experience, a
 
 🛠️ Tech Stack
 Frontend : HTML, CSS, JavaScript |
-Backend : Flask - Python |
-Database : MongoDB | 
 Styling : Bootstrap |
