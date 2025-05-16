@@ -1,5 +1,11 @@
 # 🌐 Personal Web Portfolio
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap\&logoColor=white)
+
+
 🚀 **Live Demo:** [https://boobathy13.github.io/Web\_Portfolio/](https://boobathy13.github.io/Web_Portfolio/)
 
 ---
@@ -11,7 +17,7 @@ Personal Web Portfolio is a responsive and modern digital resume showcasing your
 ---
 
 ## ✨ Features
-✨ Features
+
 ✅ Responsive Design – Works seamlessly on all screen sizes
 
 ✅ Projects Showcase – Highlights top personal and academic projects
@@ -43,9 +49,17 @@ Web_Portfolio/
 │   └── professional-photo.jpg  # Profile image used in the header
 └── .gitignore              # (Optional) For ignoring deployment files or backups
 ```
+## ✨ Sections Included
 
-
-
+* 👋 About Me
+* 🎓 Education
+* 🧠 Technical Skills
+* 💼 Experience
+* 📁 Projects
+* 📜 Certifications
+* 🛠️ Workshops
+* 🌐 Languages
+* 📬 Contact Info
 
 ---
 
@@ -83,7 +97,7 @@ No additional setup required for a static site. Simply open the `index.html` fil
 
 ## 📝 License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+This project is open-source and available under the MIT License.
 
 ---
 
