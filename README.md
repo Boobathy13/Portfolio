@@ -6,7 +6,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap\&logoColor=white)
 
 
-🚀 **Live Demo:** [[https://boobathy13.github.io/Web-Portfolio/](https://boobathy13.github.io/Portfolio/)]
+🚀 **Live Demo:** [https://boobathy13.github.io/Portfolio/]
 
 ---
 
